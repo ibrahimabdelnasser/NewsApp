@@ -1,3 +1,5 @@
+The News-App is a dynamic and user-friendly web application built with React, Bootstrap, and powered by the News API. It provides users with a seamless experience to stay updated on the latest news across multiple categories, including sports, technology, and health.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
