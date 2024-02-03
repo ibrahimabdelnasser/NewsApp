@@ -14,7 +14,7 @@ function NewsBoard({ category }) {
     return (
         <>
             <h2 className="text-center mt-2">Latest <span className="bage bg-danger  ">News</span></h2>
-            <div>
+            <div className="row">
                 {
                     articles.map((news, index) => { return <NewsItem key={index} title={news.title} description={news.description} src={news.urlToImage} url={news.url} /> }
                     )
